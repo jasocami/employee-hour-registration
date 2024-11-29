@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Worker time log</string>
+    <string name="select_action">Select action</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="new_employee">New employee</string>
+    <string name="cant_be_empty">Can\'t be empty</string>
+    <string name="atention">Atention</string>
+    <string name="delete_all">Delete all</string>
+    <string name="are_you_sure_to_delete_employee">Are you sure to delete this Employee? all their Hourlogs will be deleted</string>
+    <string name="add_register_now">Add new reg. now</string>
+    <string name="add_register_custom">Add custom reg.</string>
+    <string name="delete_employee">Delete employee</string>
+    <string name="create">Create</string>
+    <string name="hours_day_with_pholder">Hours day : %1$s</string>
+    <string name="hours_week_pholder">Hours week : %1$s</string>
+    <string name="are_you_sure_delete_all_logs_from_employee">Are you sure to delete all logs from this employee?</string>
+</resources>

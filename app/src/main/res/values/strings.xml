@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Worker time log</string>
+    <string name="select_action">Selecciona una acción</string>
+    <string name="delete">Eliminar</string>
+    <string name="edit">Editar</string>
+    <string name="new_employee">Nuevo empleado</string>
+    <string name="cant_be_empty">No puede estar vacío</string>
+    <string name="atention">Atención</string>
+    <string name="delete_all">Eliminar todos</string>
+    <string name="are_you_sure_to_delete_employee">¿Estás seguro de eliminar este empleado? Todos sus registros serán borrados</string>
+    <string name="add_register_now">Añadir reg. ahora</string>
+    <string name="add_register_custom">Añadir reg. personalizado</string>
+    <string name="delete_employee">Eliminar empleado</string>
+    <string name="create">Crear</string>
+    <string name="hours_day_with_pholder">Horas día : %1$s</string>
+    <string name="hours_week_pholder">Horas semama : %1$s</string>
+    <string name="are_you_sure_delete_all_logs_from_employee">¿Estás seguro de eliminar todos los registros de este empleado?</string>
+</resources>

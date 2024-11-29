@@ -1,0 +1,12 @@
+<resources>
+    <dimen name="fab_margin_main">16dp</dimen>
+    <dimen name="fab_margin_secondary">8dp</dimen>
+    <dimen name="fab_margin_bottom_second">86dp</dimen>
+    <dimen name="fab_margin_bottom_third">146dp</dimen>
+
+    <dimen name="activity_padding_horizontal">16dp</dimen>
+    <dimen name="activity_padding_vertical">16dp</dimen>
+    <dimen name="row_padding_horizontal">16dp</dimen>
+    <dimen name="row_padding_vertical">16dp</dimen>
+    <dimen name="dialog_margin">16dp</dimen>
+</resources>
